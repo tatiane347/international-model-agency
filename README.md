@@ -51,7 +51,7 @@ Estou disponível para:
 
 Entre em contato agora:
 
-- **LinkedIn**: [Meu Perfil Profissional]([https://www.linkedin.com/in/tatianedesouza](https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**: [Meu Perfil Profissional](   ( https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - **Portfólio no GitHub**: [Confira meus outros projetos](https://github.com/tatiane347)
 - **WhatsApp Direto**: [Clique aqui para conversar](https://wa.me/5511910526709)
 
